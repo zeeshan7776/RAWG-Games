@@ -24,7 +24,7 @@ const App = () => {
     <>
       <Grid
         templateAreas={{
-          base: `"nav" "main"`,
+          base: `"nav" "main "`,
           md: `"nav nav" "side main"`,
           lg: `"nav nav" "side main"`,
         }}
